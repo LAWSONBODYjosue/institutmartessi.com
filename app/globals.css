@@ -6,8 +6,8 @@
   --color-martessi-red: #d61e23;
   --color-martessi-gold: #c9a227;
   --color-martessi-gold-light: #f3e3a1;
-  --font-sans: var(--font-geist-sans), Arial, Helvetica, sans-serif;
-  --font-mono: var(--font-geist-mono), monospace;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-inter), monospace;
 }
 
 :root {
